@@ -18,4 +18,4 @@ In this project we are simulating a YES/NO fortune teller app. User can enter th
 
 4. Alert when user didn't enter any question
 
-    ![Alert Error](https://github.com/Steven2110/TellMe/blob/main/Images/3rd-Screen.png)
+    ![Alert Error](https://github.com/Steven2110/TellMe/blob/main/Images/Alert-Screen.png)
